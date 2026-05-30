@@ -1,5 +1,6 @@
 # 📊 Blinkit Sales Analysis Dashboard
 [View My dashboard at PowerBI services](https://app.powerbi.com/groups/me/reports/51b47222-20c6-4419-9ae1-2b8adeb4c101/df92ed198f9afa97eb8a?experience=power-bi)
+
 This project showcases an interactive Power BI dashboard built using a retail sales dataset inspired by Blinkit operations.
 
 The objective was to analyze sales performance, customer preferences, product categories, and outlet characteristics to derive meaningful business insights.
